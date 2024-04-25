@@ -1,2 +1,2 @@
 # Our Recipes
-[Lemonade scones] (lemonade-scones)
+[Lemonade scones] (https://waynelaker.github.io/recipes/lemonade-scones)
