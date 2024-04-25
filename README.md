@@ -1,1 +1,2 @@
-Lemonade scones [lemonade-scones]
+# Our Recipes
+[Lemonade scones] (lemonade-scones)
