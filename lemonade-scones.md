@@ -1,8 +1,8 @@
 # Lemonade Scones
 ## Ingredients
-1 cup flour
-1 cup cream
-1 cup lemonade 
+- 1 cup flour
+- 1 cup cream
+- 1 cup lemonade 
 ## Method
 1. Mix ingredients in a bowl to a smooth dough (don't over mix)
 2. Tip out onto floured bench and gently form a round
