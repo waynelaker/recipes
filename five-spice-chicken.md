@@ -1,5 +1,4 @@
-[Recipes](..)  
-[Recipes](../)  
+[Recipes](.)  
 [Recipes](../recipes)  
 # Five Spice Chicken (Serves 2)
 ## Ingredients
