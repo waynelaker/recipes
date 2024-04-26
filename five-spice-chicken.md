@@ -1,4 +1,4 @@
-[Recipes](..)
+[Recipes](../)
 # Five Spice Chicken (Serves 2)
 ## Ingredients
 - 200g chicken thighs, diced
