@@ -1,3 +1,4 @@
+[Recipes](..)
 # Broccoli Stir Fry (serves 4)
 ## Ingredients
 - 2 heads broccoli, cut into small florets
