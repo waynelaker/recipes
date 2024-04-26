@@ -1,4 +1,4 @@
-[Recipes](..)
+[Recipes](.)
 # Lemonade Scones
 ## Ingredients
 - 1 cup flour
