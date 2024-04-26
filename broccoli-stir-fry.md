@@ -7,7 +7,7 @@
 - 1/2 cup bulgar wheat
 - 3 garlic cloves
 - 50g sun-dried tomatoes, sliced
-- 200g feta
+- 200g feta cheese
   
 ## Method
 1. Place bulgar wheat in a bowl, cover with boiling water and put aside 
