@@ -1,5 +1,7 @@
-[Recipes](.)
-# Lemonade Scones
+[Back to Recipes](.)  
+# Lemonade Scones  
+Makes 12 scones
+
 ## Ingredients
 - 1 cup flour
 - 1 cup cream
