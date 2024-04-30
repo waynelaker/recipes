@@ -11,6 +11,7 @@
 - [Lamb Kotfas](lamb-koftas)
 - [Lemonade Scones](lemonade-scones)
 - [Pork Mince Noodles](pork-mince-noodles)
+- [Potato Gratin](potato-gratin)
 - [Rainbow Salad](rainbow-salad)
 - [Roasted Cauli/Pumpkin/Chickpea](roasted-cauli-pumpkin-chickpea)
 - [Spinach Cannelloni](spinach-cannelloni)
