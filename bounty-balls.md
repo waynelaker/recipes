@@ -3,8 +3,8 @@
 
 ## Ingredients
 - 2 cups desiccated coconut
-- 1 tin sweetened condensed milk
-- ~1 cup chocolate drops (white, milk or dark)
+- 1 can sweetened condensed milk (395g)
+- 1/2 cup chocolate drops (white, milk or dark)
   
 ## Method
 1. Combine coconut and condensed milk in a bowl
