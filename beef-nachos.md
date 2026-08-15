@@ -6,11 +6,11 @@ Serves 4
 - 1kg beef mince
 - 1 onion diced
 - Nacho spice mix:
-- - 1 tsp smoked paprika
-- - 1 tsp dried oregago
-- - 1 tsp onion powder
-- - 1/2 tsp ground cumin
-- - 1/2 tsp ground coriander
+  - 1 tsp smoked paprika
+  - 1 tsp dried oregago
+  - 1 tsp onion powder
+  - 1/2 tsp ground cumin
+  - 1/2 tsp ground coriander
 - 1 can kidney beans drained, rinsed
 - 3 tbsp tomato paste
 - 1 can tomatoes
