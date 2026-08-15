@@ -23,5 +23,6 @@ Serves 4
 1. In a large pan cook the mince and onion using a little oil
 2. Add nacho spice mix
 3. Stir through beans, tomato paste, tomatoes, corn, carrot and stock
-4. Season with salt/pepper and simmer for 10 minutes
-5. Serve with nachos grated cheese, sour cream
+4. Simmer for 10-20 mins until reduced
+5. Season with salt/pepper
+6. Serve with nachos grated cheese, sour cream
